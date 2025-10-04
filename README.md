@@ -1,23 +1,23 @@
 # BuildHub
-⦁	The construction industry requires fast, accurate, and efficient operations. Technology can help enhance customer experience and internal workflows.
+The construction industry requires fast, accurate, and efficient operations. Technology can help enhance customer experience and internal workflows.
+
 Purpose:
-⦁	Let builders book delivery and reserve materials from suppliers and pay onsite for faster operation.
+- Let builders book delivery and reserve materials from suppliers and pay onsite for faster operation.
 Users:
-⦁	Builders
-⦁	Suppliers
+- Builders
+- Suppliers
 Features:
-⦁	Online Booking
-⦁	Allows users to reserve materials
-⦁	Reschedule
-⦁	Cancellation
-⦁	Pay onsite
-⦁	Calendar Management
+- Online Booking
+- Allows users to reserve materials
+- Reschedule
+- Cancellation
+- Pay onsite
+- Calendar Management
 ----------------------------
 * Developers: (Names of developers)
-* Date: (date created)
+* Date: 09/30/2025
 * University: Phinma Education - University of Pangasinan
 * School: College of Information Technology Education (CITE)
-* Purpose: A web apps that can also be a PWA template using tailwind CSS
 * Documented:
 -----------------------------
 ## Running inside the VSCode
